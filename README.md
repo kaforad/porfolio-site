@@ -16,11 +16,11 @@ Clone or Download the application source code from GITHUB to your local computer
   bootstrap.min.css
   
 
-## # To VIEW WEBSITE ##
+## To VIEW WEBSITE ##
 Open the index.html to view the Portfolio Website. 
 You can also type in the full directory path of the index.html into your browser.
 
-## # REFERENCES ##
+## REFERENCES ##
   https://getbootstrap.com/
 
 Refrenced websites for logos and images
