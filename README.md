@@ -29,4 +29,5 @@ Refrenced websites for logos and images
 	https://www.nytimes.com/2014/08/10/magazine/who-made-that-twitter-bird.html
 	https://www.pexels.com/
     Refrenced website for logo creation
-	https://editor.freelogodesign.org	
+	https://editor.freelogodesign.org
+	www.google.com
